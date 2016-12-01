@@ -1,2 +1,1 @@
-# ujsc_vm
-A small bytecode virtual matchine for javascript
+#uol_vm
